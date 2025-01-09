@@ -5,7 +5,8 @@ inversions in an array in O(n log n) time
 
 def merge(a, b):
     '''
-    This function merges two given arrays and counts the number of inversions relative to the two
+    This function merges two given arrays and counts the number of inversions 
+    relative to the two.
     '''
     inv = 0
     c = []
@@ -28,7 +29,8 @@ def merge(a, b):
 
 def msort(x):
     '''
-    This is the divide and conquer algorithm used to sort the array and provide the total number of inversions.
+    This is the divide and conquer algorithm used to sort the array and 
+    provide the total number of inversions.
     '''
     n = len(x)
     a, b = x[:n/2], x[n/2:]
