@@ -1,4 +1,12 @@
+'''
+This is a python program for counting the number of 
+inversions in an array in O(n log n) time
+'''
+
 def merge(a, b):
+    '''
+    This function merges two given arrays and counts the number of inversions relative to the two
+    '''
     inv = 0
     c = []
     i, j, n1, n2 = 0, 0, len(a), len(b)
@@ -19,9 +27,13 @@ def merge(a, b):
     return inv, c
 
 def msort(x):
+    '''
+    This is the divide and conquer algorithm used to sort the array and provide the total number of inversions.
+    '''
     n = len(x)
     a, b = x[:n/2], x[n/2:]
-    inv1, a, inv2, b = msort(a), msort(b)
+    inv1, a = msort(a)
+    inv2, b = msort(b)
     inv, c = merge(a, b)
     return inv1+inv2+inv, c
 
