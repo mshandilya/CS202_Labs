@@ -1,0 +1,4 @@
+https://github.com/psf/requests.git
+https://github.com/microsoft/qlib.git
+https://github.com/secdev/scapy.git
+
