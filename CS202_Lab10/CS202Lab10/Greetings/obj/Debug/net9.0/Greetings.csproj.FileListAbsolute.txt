@@ -1,0 +1,14 @@
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\obj\Debug\net9.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\obj\Debug\net9.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\obj\Debug\net9.0\Greetings.AssemblyInfo.cs
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\obj\Debug\net9.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\bin\Debug\net9.0\Greetings.exe
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\bin\Debug\net9.0\Greetings.deps.json
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\bin\Debug\net9.0\Greetings.runtimeconfig.json
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\bin\Debug\net9.0\Greetings.dll
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\bin\Debug\net9.0\Greetings.pdb
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\obj\Debug\net9.0\Greetings.dll
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\obj\Debug\net9.0\refint\Greetings.dll
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\obj\Debug\net9.0\Greetings.pdb
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\obj\Debug\net9.0\Greetings.genruntimeconfig.cache
+C:\Users\mriga\source\repos\CS202Lab10\Greetings\obj\Debug\net9.0\ref\Greetings.dll

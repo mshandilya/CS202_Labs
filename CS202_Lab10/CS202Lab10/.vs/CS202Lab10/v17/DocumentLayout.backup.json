@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mriga\\source\\repos\\CS202Lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{149DE4B4-A2C9-4468-A929-30E38AF0FA33}|Greetings\\Greetings.csproj|c:\\users\\mriga\\source\\repos\\cs202lab10\\greetings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149DE4B4-A2C9-4468-A929-30E38AF0FA33}|Greetings\\Greetings.csproj|solutionrelative:greetings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149DE4B4-A2C9-4468-A929-30E38AF0FA33}|Greetings\\Greetings.csproj|c:\\users\\mriga\\source\\repos\\cs202lab10\\greetings\\greetings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{149DE4B4-A2C9-4468-A929-30E38AF0FA33}|Greetings\\Greetings.csproj|solutionrelative:greetings\\greetings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149DE4B4-A2C9-4468-A929-30E38AF0FA33}|Greetings\\Greetings.csproj|c:\\users\\mriga\\source\\repos\\cs202lab10\\greetings\\greetings.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{149DE4B4-A2C9-4468-A929-30E38AF0FA33}|Greetings\\Greetings.csproj|solutionrelative:greetings\\greetings.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Greetings.csproj",
+              "DocumentMoniker": "C:\\Users\\mriga\\source\\repos\\CS202Lab10\\Greetings\\Greetings.csproj",
+              "RelativeDocumentMoniker": "Greetings\\Greetings.csproj",
+              "ToolTip": "C:\\Users\\mriga\\source\\repos\\CS202Lab10\\Greetings\\Greetings.csproj",
+              "RelativeToolTip": "Greetings\\Greetings.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T05:48:07.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Greetings",
+              "DocumentMoniker": "C:\\Users\\mriga\\source\\repos\\CS202Lab10\\Greetings\\Greetings.csproj",
+              "RelativeDocumentMoniker": "Greetings\\Greetings.csproj",
+              "ToolTip": "C:\\Users\\mriga\\source\\repos\\CS202Lab10\\Greetings\\Greetings.csproj",
+              "RelativeToolTip": "Greetings\\Greetings.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T05:44:55.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mriga\\source\\repos\\CS202Lab10\\Greetings\\Program.cs",
+              "RelativeDocumentMoniker": "Greetings\\Program.cs",
+              "ToolTip": "C:\\Users\\mriga\\source\\repos\\CS202Lab10\\Greetings\\Program.cs",
+              "RelativeToolTip": "Greetings\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T04:14:19.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
