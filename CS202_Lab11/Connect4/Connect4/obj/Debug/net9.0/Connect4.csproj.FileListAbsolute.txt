@@ -1,0 +1,14 @@
+C:\Users\mriga\source\repos\Connect4\Connect4\bin\Debug\net9.0\Connect4.exe
+C:\Users\mriga\source\repos\Connect4\Connect4\bin\Debug\net9.0\Connect4.deps.json
+C:\Users\mriga\source\repos\Connect4\Connect4\bin\Debug\net9.0\Connect4.runtimeconfig.json
+C:\Users\mriga\source\repos\Connect4\Connect4\bin\Debug\net9.0\Connect4.dll
+C:\Users\mriga\source\repos\Connect4\Connect4\bin\Debug\net9.0\Connect4.pdb
+C:\Users\mriga\source\repos\Connect4\Connect4\obj\Debug\net9.0\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mriga\source\repos\Connect4\Connect4\obj\Debug\net9.0\Connect4.AssemblyInfoInputs.cache
+C:\Users\mriga\source\repos\Connect4\Connect4\obj\Debug\net9.0\Connect4.AssemblyInfo.cs
+C:\Users\mriga\source\repos\Connect4\Connect4\obj\Debug\net9.0\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\mriga\source\repos\Connect4\Connect4\obj\Debug\net9.0\Connect4.dll
+C:\Users\mriga\source\repos\Connect4\Connect4\obj\Debug\net9.0\refint\Connect4.dll
+C:\Users\mriga\source\repos\Connect4\Connect4\obj\Debug\net9.0\Connect4.pdb
+C:\Users\mriga\source\repos\Connect4\Connect4\obj\Debug\net9.0\Connect4.genruntimeconfig.cache
+C:\Users\mriga\source\repos\Connect4\Connect4\obj\Debug\net9.0\ref\Connect4.dll

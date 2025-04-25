@@ -1,0 +1,14 @@
+C:\Users\mriga\source\repos\Darts\Darts\bin\Debug\net9.0\Darts.exe
+C:\Users\mriga\source\repos\Darts\Darts\bin\Debug\net9.0\Darts.deps.json
+C:\Users\mriga\source\repos\Darts\Darts\bin\Debug\net9.0\Darts.runtimeconfig.json
+C:\Users\mriga\source\repos\Darts\Darts\bin\Debug\net9.0\Darts.dll
+C:\Users\mriga\source\repos\Darts\Darts\bin\Debug\net9.0\Darts.pdb
+C:\Users\mriga\source\repos\Darts\Darts\obj\Debug\net9.0\Darts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mriga\source\repos\Darts\Darts\obj\Debug\net9.0\Darts.AssemblyInfoInputs.cache
+C:\Users\mriga\source\repos\Darts\Darts\obj\Debug\net9.0\Darts.AssemblyInfo.cs
+C:\Users\mriga\source\repos\Darts\Darts\obj\Debug\net9.0\Darts.csproj.CoreCompileInputs.cache
+C:\Users\mriga\source\repos\Darts\Darts\obj\Debug\net9.0\Darts.dll
+C:\Users\mriga\source\repos\Darts\Darts\obj\Debug\net9.0\refint\Darts.dll
+C:\Users\mriga\source\repos\Darts\Darts\obj\Debug\net9.0\Darts.pdb
+C:\Users\mriga\source\repos\Darts\Darts\obj\Debug\net9.0\Darts.genruntimeconfig.cache
+C:\Users\mriga\source\repos\Darts\Darts\obj\Debug\net9.0\ref\Darts.dll

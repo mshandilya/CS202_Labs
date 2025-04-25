@@ -1,0 +1,14 @@
+C:\Users\mriga\source\repos\Tanks\Tanks\bin\Debug\net9.0\Tanks.exe
+C:\Users\mriga\source\repos\Tanks\Tanks\bin\Debug\net9.0\Tanks.deps.json
+C:\Users\mriga\source\repos\Tanks\Tanks\bin\Debug\net9.0\Tanks.runtimeconfig.json
+C:\Users\mriga\source\repos\Tanks\Tanks\bin\Debug\net9.0\Tanks.dll
+C:\Users\mriga\source\repos\Tanks\Tanks\bin\Debug\net9.0\Tanks.pdb
+C:\Users\mriga\source\repos\Tanks\Tanks\obj\Debug\net9.0\Tanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mriga\source\repos\Tanks\Tanks\obj\Debug\net9.0\Tanks.AssemblyInfoInputs.cache
+C:\Users\mriga\source\repos\Tanks\Tanks\obj\Debug\net9.0\Tanks.AssemblyInfo.cs
+C:\Users\mriga\source\repos\Tanks\Tanks\obj\Debug\net9.0\Tanks.csproj.CoreCompileInputs.cache
+C:\Users\mriga\source\repos\Tanks\Tanks\obj\Debug\net9.0\Tanks.dll
+C:\Users\mriga\source\repos\Tanks\Tanks\obj\Debug\net9.0\refint\Tanks.dll
+C:\Users\mriga\source\repos\Tanks\Tanks\obj\Debug\net9.0\Tanks.pdb
+C:\Users\mriga\source\repos\Tanks\Tanks\obj\Debug\net9.0\Tanks.genruntimeconfig.cache
+C:\Users\mriga\source\repos\Tanks\Tanks\obj\Debug\net9.0\ref\Tanks.dll
